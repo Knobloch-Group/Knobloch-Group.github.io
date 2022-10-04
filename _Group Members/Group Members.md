@@ -1,11 +1,19 @@
 ---
 title: "Group members"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Current members of the group"
 collection: Group Members
 ---
 
 Postdocs
+------
+Adrian Van Kan
+Chang Liu
 
 Grad Students
+------
+Benjamin Foster
 
 Undergraduate Students
+------
+Troy Tsubota
+Mathi Raja
