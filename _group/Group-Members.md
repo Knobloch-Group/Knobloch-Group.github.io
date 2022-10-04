@@ -1,7 +1,7 @@
 ---
-title: "Group members"
+title: "Group Members"
 excerpt: "Current members of the group"
-collection: Group Members
+collection: group
 ---
 
 Postdocs
