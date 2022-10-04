@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Group:
+  Group Members:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _group
+  # _Group Members
   - scope:
       path: ""
-      type: group
+      type: Group Members
     values:
       layout: single
       author_profile: true
