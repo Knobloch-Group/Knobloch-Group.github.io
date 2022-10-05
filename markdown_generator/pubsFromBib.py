@@ -25,15 +25,25 @@ import os
 import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
-publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
+# publist = {
+#     "proceeding": {
+#         "file" : "proceedings.bib",
+#         "venuekey": "booktitle",
+#         "venue-pretext": "In the proceedings of ",
+#         "collection" : {"name":"publications",
+#                         "permalink":"/publication/"}
         
-    },
+#     },
+#     "journal":{
+#         "file": "pubs.bib",
+#         "venuekey" : "journal",
+#         "venue-pretext" : "",
+#         "collection" : {"name":"publications",
+#                         "permalink":"/publication/"}
+#     } 
+# }
+
+publist = {
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
@@ -100,18 +110,21 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                if author.middle_names==[]:
+                    citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                else:
+                    citation = citation+" "+author.first_names[0]+" "+author.middle_names[0]+" "+author.last_names[0]+", "
 
             #citation title
-            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
+            citation = citation[0:-2]+" ("+ pub_year+") " + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
-            citation = citation + " " + html_escape(venue)
-            citation = citation + ", " + pub_year + "."
+            citation = citation + " <i>" + html_escape(venue) +"</i>."
+            if "volume" in b.keys():
+                citation = citation + " "+ b["volume"]+", "+b["pages"]+"."
 
-            
             ## YAML variables
             md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
             
