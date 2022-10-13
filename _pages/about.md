@@ -24,15 +24,15 @@ Here is a list of current (2022) projects:
 
 ... (Edgar)
 
-Double-diffusive convection, wall-bounded shear flows, stratified shear flows, shallow water waves and vortex-induced vibrations (Chang, Edgar)
+Double-diffusive convection (Chang, Edgar)
 
 Self-organisation in turbulence (Adrian, Edgar)
 
 Wrinkling and folding in elastic substrate-supported tubes (Ben, Edgar)
 
-Stability on time-dependent domains (Troy, Adrian, Ben, Edgar)
+Stability on time-dependent domains (Troy, Chang, Ben, Edgar)
 
-Collisions and dynamics in a non-variational Swift-Hohenberg equation (Mathi, Chang, Ben, Edgar)
+Collisions and dynamics in a non-variational Swift-Hohenberg equation (Mathi, Adrian, Ben, Edgar)
 
 
 

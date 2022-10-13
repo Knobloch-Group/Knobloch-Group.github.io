@@ -16,7 +16,7 @@ Postdocs
 [placeholder for short description of research]
 
 ##### Chang Liu
-[placeholder for short description of research]
+Chang Liu's research work lies in an intersection between fluid dynamics, nonlinear dynamical system, control theory and optimization. His current interested topic in fluid dynamics include double-diffusive convection, wall-bounded shear flows, stratified shear flows, shallow water waves and vortex-induced vibrations. His main research tools employed to understand fluid dynamics include bifurcation analysis, robust control theory, semi-definite optimization, adaptive filtering, asymptotic analysis and direct numerical simulations. 
 
 Graduate Students
 ------
