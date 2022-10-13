@@ -30,13 +30,13 @@ Current members
 Edgar Knobloch:
 Principal Investigator
 
-<br/><img src='/images/adrian.png'>
+<br/><img src='/images/adrian.jpg'>
 Adrian van Kan:
 Post-doc
 
 [Personal website](https://adrianvankan.github.io/)
 
-<br/><img src='/images/chang.png'>
+<br/><img src='/images/chang.jpg'>
 Chang Liu:
 Post-doc
 
