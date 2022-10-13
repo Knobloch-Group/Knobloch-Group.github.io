@@ -1,7 +1,7 @@
 ---
 title: "Group Members"
 excerpt: "Current members of the group"
-#permalink: /group/Group-Members
+permalink: /group/Group-Members
 collection: group
 ---
 

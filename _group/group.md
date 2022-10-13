@@ -1,6 +1,6 @@
 ---
 title: "Group Members"
-collection: Group Members
+collection: group
 permalink: /group
 ---
 
