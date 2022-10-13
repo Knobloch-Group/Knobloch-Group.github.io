@@ -28,7 +28,7 @@ Double-diffusive convection, wall-bounded shear flows, stratified shear flows, s
 
 Self-organisation in turbulence (Adrian, Edgar)
 
-Wrinkling and folding in elastic tubes (Ben, Edgar)
+Wrinkling and folding in elastic substrate-supported tubes (Ben, Edgar)
 
 Stability on time-dependent domains (Troy, Adrian, Ben, Edgar)
 
@@ -84,6 +84,16 @@ Visiting Graduate Student
 
 Group picnic
 <br/><img src='/images/group_lunch_600.png'>
+
+
+
+Former members
+------
+Nicolás Verschueren van Rees: 
+Post-doc
+[Personal website](https://nverschueren.github.io/)
+
+....
 
 
 
