@@ -27,33 +27,38 @@ Current members
 
 
 <br/><img src='/images/knobloch.png'>
-Edgar Knobloch
+Edgar Knobloch:
 Principal Investigator
 
 <br/><img src='/images/adrian.png'>
-Adrian van Kan
+Adrian van Kan:
 Post-doc
+
+[Personal website](https://adrianvankan.github.io/)
 
 <br/><img src='/images/chang.png'>
-Chang Liu
+Chang Liu:
 Post-doc
 
+[Personal website](https://cliu124.github.io)
+
 <br/><img src='/images/foster.png'>
-Benjamin Foster
+Benjamin Foster:
 Graduate Student
 
+[Personal website](https://benlfoster.github.io)
+
 <br/><img src='/images/mathi.png'>
-Mathi Raja
+Mathi Raja:
 Undergraduate Student
 
 <br/><img src='/images/troy.png'>
-Troy Tsubota
+Troy Tsubota:
 Undergraduate Student
 
 <br/><img src='/images/tobias.png'>
-Tobias Frohoff-Hulsmann
-Visiting Graduate Student
-
+Tobias Frohoff-Hulsmann:
+Visiting Graduate Student 
 
 
 Group picnic
