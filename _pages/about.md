@@ -47,7 +47,7 @@ Current members
 ------
 
 
-<br/><img src='/images/knobloch.png'>
+<br/><img src='/images/knobloch.jpg'>
 Edgar Knobloch:
 Principal Investigator
 
