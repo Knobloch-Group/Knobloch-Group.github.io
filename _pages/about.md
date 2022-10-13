@@ -36,7 +36,7 @@ Post-doc
 
 [Personal website](https://adrianvankan.github.io/)
 
-<br/><img src='/images/chang.jpg'>
+<br/><img src='/images/chang.png'>
 Chang Liu:
 Post-doc
 
