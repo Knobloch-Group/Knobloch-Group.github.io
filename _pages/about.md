@@ -22,9 +22,46 @@ Publications
 ------
 Here is a link to the complete list of publications:   ...
 
-Group members
+Current members
 ------
-Here is a link to the members of the group: ...
+
+
+<br/><img src='/images/knobloch.png'>
+Edgar Knobloch
+Principal Investigator
+
+<br/><img src='/images/adrian.png'>
+Adrian van Kan
+Post-doc
+
+<br/><img src='/images/chang.png'>
+Chang Liu
+Post-doc
+
+<br/><img src='/images/foster.png'>
+Benjamin Foster
+Graduate Student
+
+<br/><img src='/images/mathi.png'>
+Mathi Raja
+Undergraduate Student
+
+<br/><img src='/images/troy.png'>
+Troy Tsubota
+Undergraduate Student
+
+<br/><img src='/images/tobias.png'>
+Tobias Frohoff-Hulsmann
+Visiting Graduate Student
+
+
+
+Group picnic
+<br/><img src='/images/group_lunch_600.png'>
+
+
+
+Here is a link with more information on the members of the group: [Group Members](https://knobloch-group.github.io/group)
 
 
 
