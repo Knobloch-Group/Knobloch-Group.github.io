@@ -18,7 +18,7 @@ Postdocs
 ##### Chang Liu
 [placeholder for short description of research]
 
-Grad Students
+Graduate Students
 ------
 ##### Benjamin Foster
 [placeholder for short description of research]
