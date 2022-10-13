@@ -97,7 +97,7 @@ Post-doc
 
 
 
-Here is a link with more information on the members of the group: [Group Members](https://knobloch-group.github.io/group)
+Here is a link with more information on the members of the group: [Group Members](https://knobloch-group.github.io/group/Group-Members)
 
 
 
