@@ -13,7 +13,7 @@ Principal Investigator
 Postdocs
 ------
 ##### Adrian Van Kan
-[placeholder for short description of research]
+I am interested in fluid mechanics, specifically turbulence, and other topics in nonlinear and stochastic dynamics. My primary experience is in using direct numerical simulations, modelling and theory of geophysical turbulence to understand self-organization and the formation of structures (e.g. hurricane-like vortices or regular vortex lattices) in these flows. Currently, I am studying quasi-2D instability-driven turbulence. Real flows in our environment arise from instabilities, whose growth depends on the current state of the system. We have shown that such a feedback fundamentally alters the nature of the fluid flow compared to a prescribed state-independent forcing. I also study rapidly rotating Rayleigh-Bénard convection at extreme parameters . During my PhD at Ecole normale supérieure (ENS), I explored nonequilibrium phase transitions in rotating and stratified turbulence, and in turbulence confined within thin layers.
 
 ##### Chang Liu
 Chang Liu's research work lies in an intersection between fluid dynamics, nonlinear dynamical system, control theory and optimization. His current interested topic in fluid dynamics include double-diffusive convection, wall-bounded shear flows, stratified shear flows, shallow water waves and vortex-induced vibrations. His main research tools employed to understand fluid dynamics include bifurcation analysis, robust control theory, semi-definite optimization, adaptive filtering, asymptotic analysis and direct numerical simulations. 
