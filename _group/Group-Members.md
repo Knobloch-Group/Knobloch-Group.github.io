@@ -8,7 +8,7 @@ collection: group
 Principal Investigator
 ------
 ##### Edgar Knobloch
-[placeholder for short description of research]
+Current collaborations: A. Archer (Loughborough), A. Champneys (Bristol), M. Clerc (Santiago de Chile), D. Fabre (IMFT), B. Favier (IRPHE), D. Gomila (Palma), K. Julien (Boulder), O. Omel'chenko (Potsdam), P. Parra-Rivas (Rome), A. Rucklidge (Leeds), P. Subramanian (Auckland), U. Thiele (Muenster), H. Uecker (Oldenburg), N. Verschueren (Exeter), A. Yochelis (Be'ersheva)
 
 Postdocs
 ------
