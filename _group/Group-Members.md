@@ -26,7 +26,7 @@ Graduate Students
 Undergraduate Students
 ------
 ##### Troy Tsubota
-[placeholder for short description of research]
+My current research studies pattern formation on time-dependent domains. These growing patterns are found on all spatial scales: some examples include the water drop splash, biological morphogenesis, and the large-scale structure of galaxies in the universe. Due to the non-autonomous and nonlinear nature of this problem, the stability and dynamics of these patterns can be quite complex. The primary tools of my research are bifurcation theory, asymptotic analysis, and direct numerical simulations with Python. More broadly, I am interested in fluid dynamics, biophysics, and the atmospheric sciences.
 
 ##### Mathi Raja
 [placeholder for short description of research]

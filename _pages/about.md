@@ -73,7 +73,7 @@ Graduate Student
 Mathi Raja:
 Undergraduate Student
 
-<br/><img src='/images/troy.png'>
+<br/><img src='/images/troy.jpg'>
 Troy Tsubota:
 Undergraduate Student
 
