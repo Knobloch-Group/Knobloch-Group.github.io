@@ -21,7 +21,14 @@ Chang Liu's research work lies in an intersection between fluid dynamics, nonlin
 Graduate Students
 ------
 ##### Benjamin Foster
-[placeholder for short description of research]
+My research centers on the nonlinear response of thin elastic membranes coupled to spring-like substrates under applied pressure.  This basic system has broad relevance to a host of systems in biology and fluid dynamics such as arteries and airways and provides an exciting testbed for analyzing wrinkling and folding responses.  I use numerical continuation and analytical approaches to characterize the parameter space and the possible kinds of solutions which can occur.
+
+
+##### Tobias Frohoff-Hulsmann
+My research is about pattern formation in nonlinear, dissipative systems with a focus on the effect of conservation laws such as mass conservation.
+I am interested in the theoretical description of various phenomena that include phase separation, spatial localization and fronts in passive and active matter systems.
+For this I consider mean-field descriptions that can be widely applied in the context of soft matter and biophysics.
+In my studies I combine analytical [e.g.~linear and weakly nonlinear analyses] and numerical [e.g.~path continuation] tools to unfold and explain the complex bifurcation behavior.
 
 Undergraduate Students
 ------
