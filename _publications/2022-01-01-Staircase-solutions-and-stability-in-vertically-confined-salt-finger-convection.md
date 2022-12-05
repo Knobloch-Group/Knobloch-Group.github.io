@@ -3,7 +3,8 @@ title: "Staircase solutions and stability in vertically confined salt-finger con
 collection: publications
 permalink: /publication/2022-01-01-Staircase-solutions-and-stability-in-vertically-confined-salt-finger-convection
 date: 2022-01-01
-venue: 'arXiv preprint arXiv:2207.08029'
-citation: ' Chang Liu,  Keith Julien,  Edgar Knobloch (2022) &quot;Staircase solutions and stability in vertically confined salt-finger convection.&quot; <i>arXiv preprint arXiv:2207.08029</i>.'
+venue: 'Journal of Fluid Mechanics'
+paperurl: 'https://doi.org/10.1017/jfm.2022.865'
+citation: ' Chang Liu,  Keith Julien,  Edgar Knobloch (2022) &quot;Staircase solutions and stability in vertically confined salt-finger convection.&quot; <i>Journal of Fluid Mechanics</i>. 952, A4.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Staircase+solutions+and+stability+in+vertically+confined+salt+finger+convection){:target="_blank"} for full citation
+[Access paper here](https://doi.org/10.1017/jfm.2022.865){:target="_blank"}
